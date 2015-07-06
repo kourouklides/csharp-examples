@@ -9,7 +9,7 @@ More advanced material might be added if more advanced contributors are willing 
 Note: Code can run on any platform and IDE, but was tested only with VS.
 
 Online resources:
-* 
+* http://www.csharp-station.com/tutorial.aspx
 
 Test code your write (online compilers):
 * https://www.hackerrank.com/

@@ -10,6 +10,7 @@ Note: Code can run on any platform and IDE, but was tested only with VS.
 
 Online resources:
 * http://www.csharp-station.com/tutorial.aspx
+* http://www.learncs.org/
 * http://www.tutorialspoint.com/fsharp/
 
 Test code your write (online compilers):

@@ -1,6 +1,6 @@
-# csharp-samples
+# csharp-examples
 
-Sample code in .NET C# developed with the latest version of MS Visual Studio or Xamarin Studio.
+Example code in .NET C# developed with the latest version of MS Visual Studio or Xamarin Studio.
 
 Suitable for beginners to intermediate programmers.
 
